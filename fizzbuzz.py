@@ -1,4 +1,4 @@
-for j  in range(1+15+1):
+for j  in range(1,15+1):
     if  j ==0:
         print(j)
     elif j % 15 == 0:
